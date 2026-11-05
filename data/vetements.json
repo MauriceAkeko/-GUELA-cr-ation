@@ -1,0 +1,102 @@
+[
+  {
+    "id": "robe-pagne-elegante",
+    "name": "Robe pagne élégante",
+    "category": "Femmes",
+    "description": "Tailles S à XL, coupe évasée",
+    "price": 15000,
+    "oldPrice": 18000,
+    "emoji": "👗",
+    "image": "",
+    "badge": "Promo",
+    "available": true
+  },
+  {
+    "id": "ensemble-pagne",
+    "name": "Ensemble pagne",
+    "category": "Femmes",
+    "description": "Haut et jupe assortis",
+    "price": 22000,
+    "emoji": "🧵",
+    "image": "",
+    "badge": "Nouveau",
+    "available": true
+  },
+  {
+    "id": "chemise-lin",
+    "name": "Chemise en lin",
+    "category": "Femmes",
+    "description": "Légère, parfaite pour la chaleur",
+    "price": 9000,
+    "emoji": "👚",
+    "image": "",
+    "badge": "",
+    "available": true
+  },
+  {
+    "id": "robe-ceremonie",
+    "name": "Robe de cérémonie",
+    "category": "Robes de fêtes",
+    "description": "Pour mariages, baptêmes et soirées",
+    "price": 25000,
+    "emoji": "✨",
+    "image": "",
+    "badge": "Coup de cœur",
+    "available": true
+  },
+  {
+    "id": "robe-fete-fillette",
+    "name": "Robe de fête fillette",
+    "category": "Robes de fêtes",
+    "description": "Tulle et satin, du 2 au 12 ans",
+    "price": 12000,
+    "emoji": "🎀",
+    "image": "",
+    "badge": "",
+    "available": true
+  },
+  {
+    "id": "ensemble-enfant-garcon",
+    "name": "Ensemble enfant garçon",
+    "category": "Enfants",
+    "description": "Chemise et pantalon assortis",
+    "price": 8000,
+    "emoji": "👕",
+    "image": "",
+    "badge": "",
+    "available": true
+  },
+  {
+    "id": "robe-enfant-wax",
+    "name": "Robe enfant en wax",
+    "category": "Enfants",
+    "description": "Confortable, motifs colorés",
+    "price": 7000,
+    "emoji": "🌸",
+    "image": "",
+    "badge": "",
+    "available": true
+  },
+  {
+    "id": "tenue-scolaire-primaire",
+    "name": "Tenue scolaire primaire",
+    "category": "Tenues scolaires",
+    "description": "Ensemble complet, tissu résistant",
+    "price": 6500,
+    "emoji": "🎒",
+    "image": "",
+    "badge": "Rentrée",
+    "available": true
+  },
+  {
+    "id": "tenue-scolaire-college",
+    "name": "Tenue scolaire collège",
+    "category": "Tenues scolaires",
+    "description": "Ensemble complet, plusieurs tailles",
+    "price": 8500,
+    "emoji": "📚",
+    "image": "",
+    "badge": "Rentrée",
+    "available": true
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "siteUrl": "https://guela-creation.vercel.app",
+  "name": "GUELA création",
+  "slogan": "L'élégance, tout simplement.",
+  "tagline": "Mode femme, robes de fêtes, vêtements enfants et tenues scolaires",
+  "description": "GUELA création, boutique de mode à Attoban, Abidjan : robes, ensembles pagne, robes de fêtes, vêtements pour enfants et tenues scolaires. Commandez en quelques clics sur WhatsApp, livraison à Abidjan.",
+  "currency": "FCFA",
+  "whatsapp": ["225", "05", "46", "14", "87", "92"],
+  "theme": { "primary": "#e0187a", "navy": "#1b2a78" },
+  "phones": [
+    { "label": "Appeler le service commandes", "tel": ["+225", "05", "46", "14", "87", "92"] },
+    { "label": "Appeler la boutique", "tel": ["+225", "07", "97", "83", "00", "18"] }
+  ],
+  "address": {
+    "street": "Riverra Attoban, Pharmacie du Patrimoine",
+    "city": "Abidjan",
+    "country": "CI"
+  },
+  "hours": "",
+  "social": {
+    "handle": "GUELA création",
+    "facebook": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "delivery": {
+    "note": "Livraison à Abidjan. Les frais de livraison ne sont pas inclus dans le total.",
+    "shopRider": "Frais selon votre quartier, confirmés par la boutique.",
+    "yango": "Si le livreur de la boutique est indisponible, la livraison se fait par Yango. Des frais en plus s'appliquent : le prix de la course Yango est à votre charge."
+  },
+  "paymentMethods": ["Espèces", "Wave", "Orange Money", "MTN Money", "Moov Money"],
+  "notePlaceholder": "Ex : taille 10 ans, couleur rose, pointure..."
+}
