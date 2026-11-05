@@ -46,7 +46,7 @@ export const viewport = {
 
 // Données structurées Google : boutique locale + liste des produits
 const jsonLd = {
-  '@context': 'https://schema.org',
+  '@context': 'https://guela-creation.vercel.app/',
   '@graph': [
     {
       '@type': 'ClothingStore',

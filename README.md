@@ -1,6 +1,6 @@
 # File Tree: GuelaCrea
 
-**Generated:** 11/5/2026, 2:05:52 PM
+**Generated:** 11/5/2026, 3:18:10 PM
 **Root Path:** `c:\Users\fm005\OneDrive\Desktop\GuelaCrea`
 
 ```
@@ -9,8 +9,15 @@
     │   ├── 🎨 globals.css
     │   ├── 📄 layout.js
     │   ├── 📄 page.js
-    │   └── 🎨 page.module.css
+    │   ├── 🎨 page.module.css
+    │   ├── 📄 robots.js
+    │   └── 📄 sitemap.js
+    ├── 📁 components
+    │   └── 📁 Footer
+    │       ├── 📄 Footer.js
+    │       └── 🎨 Footer.module.css
     ├── 📁 data
+    │   ├── ⚙️ boutique.json
     │   └── ⚙️ vetements.json
     ├── 📁 public
     │   ├── 🖼️ LogoMain.png
